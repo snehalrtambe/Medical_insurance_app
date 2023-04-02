@@ -47,4 +47,4 @@ def predict_charges():
     #     return  jsonify({"Message" : "Unsuccessful"})
 
 if __name__ == "__main__":
-    app.run(host = "0.0.0.0", port = config2.PORT_NUMBER,debug=True)
+    app.run(host = "0.0.0.0", port = 8080,debug=Frue)
