@@ -1,1 +1,1 @@
-# Medical_insurance_app
+# Medical_insurance
